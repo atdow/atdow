@@ -1,9 +1,6 @@
-### Hi! I'm atdow 👋
----
-🤔
+# Hi! I'm atdow 👋
 
-### techology
----
+# Techology
 ![](https://img.shields.io/badge/-vue.js-%fff?style=flat-square&logo=vue.js&logoColor=white&color=4fc08d)
 ![](https://img.shields.io/badge/-react.js-%23555555?style=flat-square&logo=react&logoColor=blue&color=61dafb)
 ![](https://img.shields.io/badge/-node.js-%fff?style=flat-square&logo=node.js&logoColor=white&color=339933)
