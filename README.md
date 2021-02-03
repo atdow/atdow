@@ -9,3 +9,6 @@
 ![](https://img.shields.io/badge/-webpack-%fff?style=flat-square&logo=webpack&logoColor=black&color=8dd6f9)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atdow&show_icons=true&theme=default)
+
+
