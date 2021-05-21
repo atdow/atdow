@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atdow&show_icons=true&theme=default)
 
-:large_orange_diamond:<a href="https://atdow.github.io/3dCude/" target="_blank">3dCude</a> &nbsp;
+:game_die:<a href="https://atdow.github.io/3dCude/" target="_blank">3dCude</a> &nbsp;
 :dragon_face:<a href="https://atdow.github.io/pinned/bubbledragon/index.html" target="_blank">bubbledragon</a>
 
 
